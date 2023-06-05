@@ -1,3 +1,6 @@
+//Реализовать алгоритм пирамидальной сортировки (сортировка кучей).
+
+
 import java.util.Arrays;
 
 public class HeapSort {
